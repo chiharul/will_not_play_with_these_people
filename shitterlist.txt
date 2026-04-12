@@ -51,3 +51,4 @@ bstroh:88d63b07d68a4899a64a7807855e2fac:grey:'can u spray bear so he doesnt run 
 anto567000:88ff656201704c4397e9df08a49166df:light_blue:gyros every bear and 5taps, 500mp (update 4/12/2026 800mp)
 mckiyoko:d80ec678d2944ac7b098ee36f0aaf7c2:light_blue:gyros every bear and 4taps
 vxr0:a70bdacbfda2456e90a77208d7ef7af2:light_blue:85s boss, 4s per bear, no chickens no rabbits no gyro
+jotrexwitz:04fa0ed21d3f40618f9720bc8488dc75:light_blue:c62 goldor healer bonemerang stun thorn behind plant

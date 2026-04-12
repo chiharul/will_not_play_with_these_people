@@ -6,3 +6,4 @@ costcogod:05caaf1929494f9f8ee3864b253d9dd9:gold:imtestcsostco
 0141purin:b18e194fc6b84c62b4b70351c64ab68f:grey:purintest
 ohjapan:2c77078dabb84522b0db7e250e2ed25b:light_blue:japantestsss
 hydr0xia:180c5076fb5d496faf872366241bafcc:light_green:2tap demon
+uredos:5a28ca38c59a48839f43875229e1b3ed:gold:dies in boss as healer

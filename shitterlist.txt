@@ -23,3 +23,4 @@ qclyx:35535943a59e4239a46fa19c9ee1fa7d:light_blue:lfrndecoy
 lageroh_:2d37ede111754782adcd1342a147bbd0:light_blue:afkmage
 fishingjackburn:8b1703e3fd144f958538dde443341bc1:light_blue:'i 2 tap bats' (ancient 6star storm no gems only g6p6)
 cbrnath:38152d7a98214eb7a5e3212ee0570314:light_blue:full afk 0 chickens lcm spam mage
+scynna:2eac980bd0e14691aec9bd774a8d3fc6:light_green:'who cares if archer just 1taps everything'

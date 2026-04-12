@@ -33,3 +33,4 @@ ancientff:ae848a734798443f862d6badb7404a1e:light_blue:refuses to use goggles and
 endercat31:5e5549eb427342bba93d7caf0ab59710:light_blue:gets slow runs, insists resq's pb is soulwip
 3kudayo:cd17e8ec649b4ef7a3ea03923a150b16:light_blue:fairy armor troll bers
 staskorg:41220e85d42e47049775c3a77a6f6c4a:light_blue:80sec 5/9 spider, 70sec 8/8 waterfall before opening quiz
+zombieltk:a5973d417b18479386fb48ed0c937115:light_blue:doesnt place decoys or kill bats on bers

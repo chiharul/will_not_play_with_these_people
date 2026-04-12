@@ -53,3 +53,4 @@ mckiyoko:d80ec678d2944ac7b098ee36f0aaf7c2:light_blue:gyros every bear and 4taps
 vxr0:a70bdacbfda2456e90a77208d7ef7af2:light_blue:85s boss, 4s per bear, no chickens no rabbits no gyro
 jotrexwitz:04fa0ed21d3f40618f9720bc8488dc75:light_blue:c62 goldor healer bonemerang stun thorn behind plant
 voglioungatto:330e019d4bdd40f2bcd2fde307cb4e40:light_blue:true bers arena gyroing bear doesnt cycle
+theobdurate:698c8806c2ae4731bda4bbe68dbec743:light_green:'where do rabbits spawn' archer, doesnt even br

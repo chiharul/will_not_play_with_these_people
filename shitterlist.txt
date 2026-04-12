@@ -35,3 +35,4 @@ endercat31:5e5549eb427342bba93d7caf0ab59710:light_blue:gets slow runs, insists r
 staskorg:41220e85d42e47049775c3a77a6f6c4a:light_blue:80sec 5/9 spider, 70sec 8/8 waterfall before opening quiz
 zombieltk:a5973d417b18479386fb48ed0c937115:light_blue:doesnt place decoys or kill bats on bers
 allxn__:868778f2a5b64706ad047a5ff0c5821a:light_blue:'what are decoys used for' spiritual term, necron helm, 228 pb
+chudtip:4c646d875b7a4d7c8f18451f4ad6af23:light_green:what the stun

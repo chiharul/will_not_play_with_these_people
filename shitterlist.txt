@@ -25,3 +25,4 @@ fishingjackburn:8b1703e3fd144f958538dde443341bc1:light_blue:'i 2 tap bats' (anci
 cbrnath:38152d7a98214eb7a5e3212ee0570314:light_blue:full afk 0 chickens lcm spam mage
 scynna:2eac980bd0e14691aec9bd774a8d3fc6:light_green:'who cares if archer just 1taps everything'
 pengggg:2868130331be4976b128bb707de7faee:light_green:kills bats on timer
+cnvd:9a4608ed7e044351a0afdc724a04741a:gold:tank that starts killing mobs during b1 timer ???

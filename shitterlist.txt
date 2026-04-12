@@ -37,3 +37,4 @@ zombieltk:a5973d417b18479386fb48ed0c937115:light_blue:doesnt place decoys or kil
 allxn__:868778f2a5b64706ad047a5ff0c5821a:light_blue:'what are decoys used for' spiritual term, necron helm, 228 pb
 chudtip:4c646d875b7a4d7c8f18451f4ad6af23:light_green:what the stun
 gawhiff:c714427c9bc345ea9eec65eec41b8456:light_blue:'anyway, tell the tank if he needs a mastiff wish at c50, maybe he needs to get good.' (wishes at b5)
+kleinerwolff:b0a9982124ab4834855ddb67e4d55d21:light_blue:has a timer yet still kills every fucking animal and knocks bear back to decoy

@@ -12,3 +12,4 @@ manmik:ff89209b6f03429bb55a9af584771e8d:gold:Party > [MVP++] MANMIK: bers is kin
 iamnewtohypixel:59c7e0d7438a436d969c186a604fcbb4:light_blue:dies in clear on healer every other run (c50)
 valencier:b1b7017f7dc549a49dcc40c53b30ea1e:gold:mage kill bats after b1 (there arent any)
 dreamsblades:53988cdf90984fdb8fbe7cedd76b73d7:light_blue:new arch meta, kill bats
+tungstenminer:a91426452b1e45ac87a24dace3bc7e0f:light_blue:overkiller 3000

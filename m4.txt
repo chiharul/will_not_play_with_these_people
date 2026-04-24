@@ -67,4 +67,4 @@ hatebb:a321d06a121a4e8596f3be6bd6001338:light_blue:ym3i
 Talalwastaken:d77b4ed38d2e4e01935fe7f2b68a0838:light_green:bers overkill of doom, starts killing bats during b1 timer
 Vxriise:59f30d4c44ab4a60ac275be7b283bafd:gold:midas mage alergic to killing the bear fast misses bear even with 2.4s tac
 Spamq:9e3b0cda425744cdadf433743405b413:gold:goes for blaze secret before killing a single blaze
-velkhqna:8b93b5b4b8db42998a3ba343b112b38c:grey:afk arch, starts overkilling everything for milestone
+Velkhqna:8b93b5b4b8db42998a3ba343b112b38c:grey:afk arch, starts overkilling everything for milestone

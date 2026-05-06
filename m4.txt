@@ -1,4 +1,3 @@
-ohlafy:629bce944ec04cef8b6d203d9d8a4fba:light_green:test
 Hamsad:9ee45a4050ba43fb8e6deaaca08d1040:light_green:tester
 ItsChimkin:ae4b9af7ff0741bb98dbb362c81116a4:light_blue:test
 0141purin:b18e194fc6b84c62b4b70351c64ab68f:grey:purintest

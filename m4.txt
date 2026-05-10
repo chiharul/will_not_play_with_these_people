@@ -78,3 +78,4 @@ Sasmate420_:fa6d0f5b967742388c892ef2230c983b:grey:no timer 4tap bear
 Mytos002:0e67659786464afe8c0101730b8e3e60:grey:doesnt cycle bers
 Alex_Minion4128_:49ba3c9c64794109ab8a1a3f97628ff6:grey:stun of doom and despair
 Elgordobondiola:d409268038a849a98a6b1d80205910bf:grey:stun of doom and despair
+sven_packmaster:1fc9a548a7084ee3ada9cc20bfe3daae:grey:can't stun on heal, can't kill bats on bers, tries to ptme after being called out, actual retard

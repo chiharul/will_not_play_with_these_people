@@ -83,3 +83,4 @@ Trishu_:465d2f241b264877bf4e8b0b87f2534f:light_green:true bers
 bestm7tank:240dc6b3ed3e411b8be391bfe569201e:light_blue:arch overkills everything including bats pmo
 CatgirlPoke:e24733da54cc44d793890ad79e414cbc:light_blue:mage doesnt camp, secrets spider for 50 seconds getting a whopping 3 secrets; the bat + chest and the chest at the very bottom somehow, blames everything on arch
 eerietaxed:cfbbe5ae656a4efba0b0ef1ec0bb2447:light_blue:b1 overkill doom
+trji:44fc68d368f947229b03ce80f4f179cb:light_green:bers kills 0 bats b1 and goes down into arena b3 to overkill all rabbits during bear timer ?????

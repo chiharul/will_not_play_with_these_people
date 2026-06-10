@@ -1,6 +1,6 @@
 Hamsad:9ee45a4050ba43fb8e6deaaca08d1040:light_green:tester
 ItsChimkin:ae4b9af7ff0741bb98dbb362c81116a4:light_blue:test
-0141purin:b18e194fc6b84c62b4b70351c64ab68f:grey:purintest
+komeijikoisi514:b18e194fc6b84c62b4b70351c64ab68f:grey:purintest
 ohJapan:2c77078dabb84522b0db7e250e2ed25b:light_blue:japantestsss
 Hydr0xia:180c5076fb5d496faf872366241bafcc:light_green:2tap demon
 uredos:5a28ca38c59a48839f43875229e1b3ed:light_blue:dies in boss as healer
@@ -21,12 +21,12 @@ fishingjackburn:8b1703e3fd144f958538dde443341bc1:light_blue:'i 2 tap bats' (anci
 CBRnath:38152d7a98214eb7a5e3212ee0570314:light_blue:full afk 0 chickens lcm spam mage
 Scynna:2eac980bd0e14691aec9bd774a8d3fc6:light_green:'who cares if archer just 1taps everything'
 LifeIsRagebait:2868130331be4976b128bb707de7faee:light_green:kills bats on timer
-CatGirlHaerin:9a4608ed7e044351a0afdc724a04741a:light_blue:tank that starts killing mobs during b1 timer ???
+cnvd:9a4608ed7e044351a0afdc724a04741a:light_blue:tank that starts killing mobs during b1 timer ???
 Eisenmann10:ea8bdaff1dc74557af2fa6cb88d123d5:light_blue:wants archer killing mobs during bear is spawning/alive cause they cant aim
 Ravenwsup123:5b2034278103448e942cb94dba34370a:light_blue:400mp juju non killing bats (update:4/12/2026 580mp c47 termnon wisdom armor)
 ficingboogo:a0b8e3f03ace4449965f8d437a3d9847:light_blue:'my timer doesnt work soo i go off fealing'
 aNcIeNtFf:ae848a734798443f862d6badb7404a1e:light_blue:refuses to use goggles and loving chestplate despite having gear and the damage 'its m4 bro dmg doesnt matter'
-endercat31:5e5549eb427342bba93d7caf0ab59710:light_blue:gets slow runs, insists resq's pb is soulwip
+debuanyaa:5e5549eb427342bba93d7caf0ab59710:light_blue:gets slow runs, insists resq's pb is soulwip
 3kudayo:cd17e8ec649b4ef7a3ea03923a150b16:light_blue:fairy armor troll bers
 StasKorg:41220e85d42e47049775c3a77a6f6c4a:light_blue:80sec 5/9 spider, 70sec 8/8 waterfall before opening quiz
 ZombieLTK:a5973d417b18479386fb48ed0c937115:light_blue:doesnt place decoys or kill bats on bers
@@ -37,7 +37,7 @@ KleinerWolff:b0a9982124ab4834855ddb67e4d55d21:light_blue:has a timer yet still k
 Greninja908:433d619cdaa64cc5b55549fc988bb767:light_blue:'we dont need s+ its just m4'
 JohnWomenBoat14:9cbf3fffd2254da8a390145198c72b53:light_green:cant kill a single chicken
 OhSoaki:aa44febd6e2e47ad9a75ad092d345fb7:light_blue:asking why arch isnt killing mobs while bear is spawning and says hes carrying cause he doesnt miss bows as tank
-zj2sbrother:baa6b2d3457d4e178e2261e15d0b7684:light_green:'why would i need an rcm set'
+dima_walhacks:baa6b2d3457d4e178e2261e15d0b7684:light_green:'why would i need an rcm set'
 MarfMeows:6f1dfee91a794d4cb8072ad2ece4fd24:light_blue:'if u need a duo br in m4 u need to not play mage'
 MEOWSTERIA:e428ffd3d9854f3daf0fbdeb0b77c3cb:light_blue:kills all bats on timer, 100s boss, ego
 Paragonal:5b2ce8878705425fba0633fa023219a2:light_blue:'sry didnt know yall were lf good gameplay'
@@ -53,7 +53,7 @@ TheObdurate:698c8806c2ae4731bda4bbe68dbec743:light_green:'where do rabbits spawn
 Benyu:97113729035043f8a38052fce3700396:light_green:aotved down to portal under thorn and camped wolves? termed bats? camped air. 0 spr. miserable be rserk. camped wolves and let healer kill bats - sun tzuterro
 Currye:723e369093ac48f1b13fd64164edd20a:light_blue:tank shooting everything(too little dps to kill anything), shoots bats during bear spawn, tries to kill bear, '[249] ⛂ [MVP+] Currye: thats why yall broke'(9b nw btw lolol)
 PRO_NSG_777:939602d25a374972b5d3df8064d8998f:light_blue:i cannot describe how unfathomly bad this guy is. he was actively clearing the entire time yet cleared 1 room (archway) and did 1 puzzle creaper beams which took him the entire clear because he connected every single sea lantern to each other and still didn't complete the puzzle. in boss as besr he didnt place decoys or kill bats at all instead he stayed in the arena shooting mobs during the bear timer and shooting the spirit bear so mage cant kill it. he also picked up all the bows and missed half of them - sun tzu(stopselling)
-runeh:7f7c19ab12bd4ceb892b320b446f8aea:light_blue:-
+omgbro_:7f7c19ab12bd4ceb892b320b446f8aea:light_blue:-
 Frank_lol_:f2378ee55d5049fd99f83a90f15f61ce:light_blue:-
 joshprogamer22:a19e421febf144d88e43859a8ecd179e:light_blue:retard will warp you into megawalls
 DrSammy:4fd352b9a30949549ae38ee6dfdc9936:light_blue:'dont overkill'-overkills, wisdom5 lcm, no rcm, c4 claymore, flares in boss while being told not to
@@ -64,7 +64,7 @@ Talalwastaken:d77b4ed38d2e4e01935fe7f2b68a0838:light_green:bers overkill of doom
 Vxriise:59f30d4c44ab4a60ac275be7b283bafd:light_blue:midas mage alergic to killing the bear fast misses bear even with 2.4s tac
 Spamq:9e3b0cda425744cdadf433743405b413:light_blue:goes for blaze secret before killing a single blaze
 ShayneAnthony:8b93b5b4b8db42998a3ba343b112b38c:light_blue:afk arch, starts overkilling everything for milestone
-BlazePhoenix23:44f55d2354274e79b0139ddacf00e6a2:light_blue:hypermax m4 claymore, 1960mp, wisdom 5 7star lcm with fine gemstones, doesnt 1tap.. what.
+BlazeAbuser:44f55d2354274e79b0139ddacf00e6a2:light_blue:hypermax m4 claymore, 1960mp, wisdom 5 7star lcm with fine gemstones, doesnt 1tap.. what.
 RIP_GrandpaJoe:32116eb69bf34a7d8884921acd545044:light_blue:overkill demon, gives up on br halfway through
 MasumXXD:4d0c38a0224c4522998f1df4c4054641:light_green:Party > [VIP] masumxxd: bers u dont kill bats on b1 store them for b2
 Theunfrendlyman:6bb777b986d4465baa648d8436926a85:light_green:doesnt kill for b1 shit clear
@@ -73,7 +73,7 @@ CataMommy:c6cf85f38e474b0bb114d6110264c28f:light_green:toggles in m4 as a c50 wi
 PsychoGram:216a513a842d4a3f93c86ab219a7cc05:light_blue:shit mage cant even 5tick for shit, loses bonzo on bc, consis 80s bc
 habibi42069:2995e9e4228a41f4bb2d44e4796821a1:light_green:mage refuses to use rcm in boss; Party > [VIP+] habibi42069: u want me to clear chickens Party > [VIP+] habibi42069: are u out of ur mind
 Templierx3:94a6427ed2944c72b182c51a8151186c:light_blue:arch afks until he can overkill
-Sasmate420_:fa6d0f5b967742388c892ef2230c983b:light_blue:no timer 4tap bear
+I3ilbo:fa6d0f5b967742388c892ef2230c983b:light_blue:no timer 4tap bear
 Alex_Minion4128_:49ba3c9c64794109ab8a1a3f97628ff6:light_blue:stun of doom and despair
 Elgordobondiola:d409268038a849a98a6b1d80205910bf:grey:stun of doom and despair
 Sven_Packmaster:1fc9a548a7084ee3ada9cc20bfe3daae:light_blue:can't stun on heal, can't kill bats on bers, tries to ptme after being called out, actual retard
@@ -83,7 +83,7 @@ CatgirlPoke:e24733da54cc44d793890ad79e414cbc:light_blue:mage doesnt camp, secret
 eerietaxed:cfbbe5ae656a4efba0b0ef1ec0bb2447:light_blue:b1 overkill doom
 trji:44fc68d368f947229b03ce80f4f179cb:light_green:bers kills 0 bats b1 and goes down into arena b3 to overkill all rabbits during bear timer ?????
 H47291K:bb2090a795a546a1a8660a0096c87ead:light_blue:225 pb arch never stops killing animals, got kicked so disconnects and boss magically becomes 100x better
-uhpetal:0e20744b77ca481ab112f247e14215b0:light_blue:aformentioned guys boyfriend, they share the same braincell
+adorepetal:0e20744b77ca481ab112f247e14215b0:light_blue:aformentioned guys boyfriend, they share the same braincell
 f1shs:2faf69a59d084025b5b4e8a807cfcf23:light_blue:mage spraying the fucking bear
 AdosCatGirl:7e387bb6bfc34318ac133ae6cccd56d6:light_blue:complete retard kicks me(sarah) after i try teaching the party how to play the game, says rcm clear is dogshit and is transgender probably
 include (sarah) so it doesnt sound like me saying it
@@ -93,4 +93,4 @@ BenTheBinMan123:f2d8b4bf71f94cf4879fcb4639efbf74:light_green:HOLY SHITTER BAD RO
 Bukayo:665846e8a9c4447ea44c4f4aaa7f7fc7:light_blue:Party > [MVP+] Bukayo: Dude play the game | Party > [MVP++] ily thorn <3: dude i want good runs | Party > [MVP+] Bukayo: Then leave | bers overkill 30 bats not overkilling is not this hard
 snowrain:e74490ab3bd04e3b8486233f1bf18ae5:light_blue:mage can't hit bear to save their life
 gwzr:27c9a84f52224fe19802bb6975dfb4fb:light_green:sigh. c46 rcm tank/bers ult wise 7star astraea with execute and flawless ruby,  7star rcm 7star goggles no gemstones full wisdom, sheep pet.
-expqnded:c2a8ea83e9b84a9da1ee00e2c681fb7c:light_blue:'rcm tank' decides its his time to shine; overkills everything, agros chickens everywhere he goes, and DOESNT PICK UP OR SHOOT ANY BOW
+Expqnded:c2a8ea83e9b84a9da1ee00e2c681fb7c:light_blue:'rcm tank' decides its his time to shine; overkills everything, agros chickens everywhere he goes, and DOESNT PICK UP OR SHOOT ANY BOW

@@ -1,6 +1,5 @@
 Hamsad:9ee45a4050ba43fb8e6deaaca08d1040:light_green:tester
 ItsChimkin:ae4b9af7ff0741bb98dbb362c81116a4:light_blue:test
-komeijikoisi514:b18e194fc6b84c62b4b70351c64ab68f:grey:purintest
 ohJapan:2c77078dabb84522b0db7e250e2ed25b:light_blue:japantestsss
 Hydr0xia:180c5076fb5d496faf872366241bafcc:light_green:2tap demon
 uredos:5a28ca38c59a48839f43875229e1b3ed:light_blue:dies in boss as healer

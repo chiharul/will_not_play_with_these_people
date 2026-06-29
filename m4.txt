@@ -5,10 +5,10 @@ uredos:5a28ca38c59a48839f43875229e1b3ed:light_blue:dies in boss as healer
 SnipeYouBoys:6be726c8ac2e460abf46bf30df21a78e:light_green:bers of doom/clear of doom
 MANMIK:ff89209b6f03429bb55a9af584771e8d:light_blue:Party > [MVP++] MANMIK: bers is kinda useless in boss either way
 IAmNewToHypixel:59c7e0d7438a436d969c186a604fcbb4:light_blue:dies in clear on healer every other run (c50)
-Valencier:b1b7017f7dc549a49dcc40c53b30ea1e:light_blue:mage kill bats after b1 (there arent any)
+Joltium:b1b7017f7dc549a49dcc40c53b30ea1e:light_blue:mage kill bats after b1 (there arent any)
 DREAMSBLADES:53988cdf90984fdb8fbe7cedd76b73d7:light_blue:new arch meta, kill bats
 FunnyArcher:a91426452b1e45ac87a24dace3bc7e0f:light_blue:overkiller 3000
-ArtificialMenace:861e97ce5d64445795265eb6c06d931b:light_blue:5tap bear
+ilySnorlax:861e97ce5d64445795265eb6c06d931b:light_blue:5tap bear
 2ww3:6ebea81bc7854af198f1ecb960125dc0:light_blue:larperking 1tapphobia
 Random_Melon:e0300ea6e5304e2495e58fcebc8f851e:light_blue:random_melon
 MC_Koray:127f1fba397948a8b389c8e1797e8bfe:light_blue:id rather a c30 lcm than this guy egoing despite hes full lcm armor just spaming click to bear spawn and still missing hits - request_
@@ -51,7 +51,7 @@ TheObdurate:698c8806c2ae4731bda4bbe68dbec743:light_green:'where do rabbits spawn
 Benyu:97113729035043f8a38052fce3700396:light_green:aotved down to portal under thorn and camped wolves? termed bats? camped air. 0 spr. miserable be rserk. camped wolves and let healer kill bats - sun tzuterro
 Currye:723e369093ac48f1b13fd64164edd20a:light_blue:tank shooting everything(too little dps to kill anything), shoots bats during bear spawn, tries to kill bear, '[249] ⛂ [MVP+] Currye: thats why yall broke'(9b nw btw lolol)
 PRO_NSG_777:939602d25a374972b5d3df8064d8998f:light_blue:i cannot describe how unfathomly bad this guy is. he was actively clearing the entire time yet cleared 1 room (archway) and did 1 puzzle creaper beams which took him the entire clear because he connected every single sea lantern to each other and still didn't complete the puzzle. in boss as besr he didnt place decoys or kill bats at all instead he stayed in the arena shooting mobs during the bear timer and shooting the spirit bear so mage cant kill it. he also picked up all the bows and missed half of them - sun tzu(stopselling)
-omgbro_:7f7c19ab12bd4ceb892b320b446f8aea:light_blue:-
+runeh:7f7c19ab12bd4ceb892b320b446f8aea:light_blue:-
 Frank_lol_:f2378ee55d5049fd99f83a90f15f61ce:light_blue:-
 joshprogamer22:a19e421febf144d88e43859a8ecd179e:light_blue:retard will warp you into megawalls
 DrSammy:4fd352b9a30949549ae38ee6dfdc9936:light_blue:'dont overkill'-overkills, wisdom5 lcm, no rcm, c4 claymore, flares in boss while being told not to
@@ -96,7 +96,7 @@ MasterMode7:f011ad6694b24be1a805570635c7285e:light_blue:arch starts killing duri
 TheLieber:ef44e433ee7b497fbfbcb65a75044c2d:light_green:arch stops br halfway through, overkills everything, agros chickens and rabbits to narnia
 Im_Shortt:de7e1a2dc47841deaeea7212118bdba3:light_green:2026 sa non c53 800mp 10star g7p7 sa with fucking flawless jaspers
 Pqilish:f37ff92ffcef436bad7fa26f0a1d64fa:light_blue:Overkills bats on every single bear,
-vilps1:f1955efd02dd410aac1f69852aa72058:light_blue:400 comps 226 still running spiritual term refuses to remove
+Serbtar:f1955efd02dd410aac1f69852aa72058:light_blue:400 comps 226 still running spiritual term refuses to remove
 itchyrock:8d2ade58368740c8b0d189fd1eefe967:light_blue:Party > [MVP+] itchyrock: i havent read through the guides too thoroughly, but i have a rough idea on what to do | goldor reaper mask rcm tank shoots from mid no tac | 159 old m4 pb | c56 | [334] ⚡ [✌] [MVP+] itchyrock: i miss when m4 wasnt this optimized
 Supies:8cbb5c45a1ac45b5bab166965cdbd4bc:light_blue:[493] ツ ! [MVP++] Supies ! ♲: i lowk placed jerries instead of decoy | professional secret jew, doesnt clear, doesnt decoy, doesnt cycle
 TwilightArrow:9676c65f3ab341afbe8837aa111c4133:light_green:starts terming mobs during every bear timer
